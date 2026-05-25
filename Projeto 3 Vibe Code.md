@@ -66,7 +66,7 @@ O grupo concluiu que, para projetos maiores ou mais complexos, seria necessário
 O projeto foi desenvolvido por dois integrantes, com divisão equilibrada das responsabilidades:
 
 - Miguel Rodrigues de Oliveira  
-- Marcus Vinícius  
+- Marcus Vinícius marques ribeiro  
 
 Ambos participaram ativamente da criação do protótipo, testes de funcionamento e discussão das limitações e vantagens da ferramenta, garantindo que a aplicação estivesse funcional e alinhada aos objetivos do projeto.
 
