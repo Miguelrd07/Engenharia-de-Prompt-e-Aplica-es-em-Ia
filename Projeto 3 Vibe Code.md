@@ -20,7 +20,7 @@ O objetivo do projeto foi demonstrar, na prática, como ferramentas low code/no 
   2. Os dados são salvos automaticamente na base da aplicação.
   3. As pessoas cadastradas podem ser visualizadas imediatamente em uma lista organizada.
 
-Os prints das telas da aplicação em funcionamento foram adicionados à pasta `/docs`, conforme solicitado no projeto.
+
 
 ---
 
