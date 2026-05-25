@@ -50,6 +50,7 @@ Apesar das vantagens, algumas limitações também foram percebidas:
 1. Customização limitada de layout, restrita aos componentes oferecidos pela plataforma.
 2. Dependência da ferramenta, já que a aplicação fica vinculada ao ambiente do Glide.
 3. Limitações do plano gratuito, como restrições de recursos mais avançados.
+4. Com o Plano gratuito não pode publicar sendo assim o projeto tem que ser aberto pelo o login do criador
 
 ---
 
